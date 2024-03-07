@@ -1,0 +1,1 @@
+Sredni czas oczekiwania dla metody FCFSpriorytetowo: 128.533
